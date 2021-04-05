@@ -12,4 +12,8 @@
 [![Active](https://github-readme-stats.vercel.app/api?username=neptune-dev&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/neptune-dev)
 
 
-🗡 I am also passionate about Greek Mythology so that's why all my repositories have Greek names
+### Contact me :
+[![Active](https://img.shields.io/badge/CutlMC-Click-blue?style=flat-square&logo=discord)](https://discord.gg/cultmc)  
+[![Active](https://img.shields.io/badge/Instagram-_neptune_dev_-purple?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_/)  
+
+🗡 I am also passionate about Greek Mythology so that's why all my repositories have Greek names.
