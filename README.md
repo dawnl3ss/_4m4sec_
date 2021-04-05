@@ -2,9 +2,9 @@
 
 💨 My name is Neptune and i'm backend developer and cybersecurity student.
 
-📌 I live in French, near Paris.
-🕯 I have 15yo.
-🎇 Owner of CultMC, i'm currently working in self-taught and learning Go.
+📌 I live in French, near Paris. \n
+🕯 I have 15yo. \n
+🎇 Owner of CultMC, i'm currently working in self-taught and learning Go. \n
 
 [![Active](https://img.shields.io/badge/Langages-PHP%20/%20Python%20/%20C%20/%20C++%20/Go-cyan?style=flat-square)](https://www.github.com/neptune-dev)
 
