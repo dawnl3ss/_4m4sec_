@@ -2,7 +2,7 @@
 
 💨 My name is Neptune and i'm backend developer and cybersecurity student.
 
-📌 I live in French, near Paris.  
+📌 I live in France, near Paris.  
 🕯 I have 15yo.  
 🎇 Owner of CultMC, i'm currently working in self-taught and learning Go.  
 
