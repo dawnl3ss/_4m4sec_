@@ -6,7 +6,7 @@
 🕯 I have 16yo.  
 🎇 Owner of CultMC, i'm currently working in self-taught and learning Go.  
 
-[![Active](https://img.shields.io/badge/Languages-PHP%20/%20Python%20/%20C%20/%20C++%20/%20Go-cyan?style=flat-square)](https://www.github.com/neptune-dev)
+[![Active](https://img.shields.io/badge/Languages-PHP%20/%20Python%20/%20SQL%20/C%20/%20C++%20/%20Go-cyan?style=flat-square)](https://www.github.com/neptune-dev)
   
   
 ### My stats :
