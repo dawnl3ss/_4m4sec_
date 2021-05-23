@@ -4,7 +4,7 @@
 
 📌 I live in France, near Paris.  
 🕯 I have 16yo.  
-🎇 Owner of CultMC, i'm currently working in self-taught and learning Go.  
+🎇 I'm currently working in self-taught and learning Go & C#.  
 
 [![Active](https://img.shields.io/badge/Languages-PHP%20/%20Python%20/%20SQL%20/%20C%20/%20C++%20/%20Go-cyan?style=flat-square)](https://www.github.com/neptune-dev)
   
@@ -20,4 +20,4 @@
   
   
   
-🗡 I am also passionate about Greek Mythology so that's why all my repositories have Greek names.
+🗡 I am also passionate about Greek Mythology and Space so that's why all my repositories have greek or spacial names.
