@@ -7,7 +7,6 @@
 🎇 I'm currently working in self-taught and learning Go & C#.  
   
 ### Languages that I practice : 
-[![Active](https://img.shields.io/badge/Languages-PHP%20/%20Python%20/%20SQL%20/%20C%20/%20C++%20/%20Go-cyan?style=flat-square)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.github.com/Neptune-Dev)
