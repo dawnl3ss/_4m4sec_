@@ -9,11 +9,12 @@
 ### Languages that I practice : 
 [![Active](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.github.com/Neptune-Dev)
-[![Active](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.github.com/Neptune-Dev)
 [![Active](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.github.com/Neptune-Dev)
+[![Active](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.github.com/Neptune-Dev)
+
 
 ### My stats :
 [![Active](https://github-readme-stats.vercel.app/api?username=neptune-dev&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-Dev)
