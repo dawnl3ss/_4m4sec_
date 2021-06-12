@@ -31,5 +31,3 @@
   
   
 🗡 I am also passionate about Greek Mythology and Space so that's why all my repositories have greek or spacial names.
-
-![Visitor Count](https://profile-counter.glitch.me/neptune-dev/count.svg)
