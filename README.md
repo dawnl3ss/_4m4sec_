@@ -20,7 +20,8 @@
 
 
 ### My stats :
-[![Active](https://github-readme-stats.vercel.app/api?username=neptune-dev&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-Dev)
+[![Active](https://github-readme-stats.vercel.app/api?username=neptune-dev&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-Dev)  
+[![Active](https://komarev.com/ghpvc/?username=neptune-dev&color=FAC151)](https://www.github.com/Neptune-Dev)  
   
   
 ### Contact me :
@@ -31,5 +32,3 @@
   
   
 🗡 I am also passionate about Greek Mythology and Space so that's why all my repositories have greek or spacial names.
-
-[![Active](https://komarev.com/ghpvc/?username=neptune-dev&color=FAC151)]()
