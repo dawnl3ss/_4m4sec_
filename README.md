@@ -31,3 +31,5 @@
   
   
 🗡 I am also passionate about Greek Mythology and Space so that's why all my repositories have greek or spacial names.
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=neptune-dev&color=FAC151)][1]
