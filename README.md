@@ -7,7 +7,7 @@
 🕯 I have 16yo.  
 🌌 The 100 & PJO-HOO fan.  
   
-### Languages & techonlogies that I practice :  
+### Languages & technologies that I practice :  
 <p align="left">
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
