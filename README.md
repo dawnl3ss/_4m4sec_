@@ -4,9 +4,7 @@
 💨 My name is Neptune and i'm backend developer and cybersecurity student.
 
 📌 I live in France, near Paris.  
-💪 I'm a man.  
 🕯 I have 16yo.  
-🎇 I'm currently working in self-taught and learning Go & C#.  
 🌌 The 100 & PJO-HOO fan.  
   
 ### Languages that I practice : 
