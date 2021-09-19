@@ -22,7 +22,6 @@
   
   
 ### Contact me :
-![](https://img.shields.io/badge/Discord-Alex'%231000-blue?style=flat-square&logo=discord)  
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
   
