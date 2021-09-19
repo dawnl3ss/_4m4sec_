@@ -3,7 +3,7 @@
 ### About me :  
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
   
-📌 Currently studying at school and working on <a href="https://github.com/Neptune-Dev/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
+📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
@@ -17,8 +17,8 @@
 </p>
 
 ### My stats :
-[![Active](https://github-readme-stats.vercel.app/api?username=neptune-dev&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-Dev)  
-[![Active](https://komarev.com/ghpvc/?username=neptune-dev&color=FAC151)](https://www.github.com/Neptune-Dev)  
+[![Active](https://github-readme-stats.vercel.app/api?username=neptune-it&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-IT)  
+[![Active](https://komarev.com/ghpvc/?username=neptune-it&color=FAC151)](https://www.github.com/Neptune-IT)  
   
   
 ### Contact me :
