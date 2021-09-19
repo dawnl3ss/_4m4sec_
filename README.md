@@ -4,7 +4,6 @@
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
   
 📌 Currently working on <a href="https://github.com/Neptune-Dev/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
-🌌 SAO, The 100 & PJO-HOO fan.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
@@ -26,6 +25,5 @@
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
   
-  
-  
-🗡 I am also passionate about Greek Mythology and Space so that's why all my repositories have greek or spacial names.
+🗡 SAO, The 100 & PJO fan.  
+🌌 Space & Greece lover.
