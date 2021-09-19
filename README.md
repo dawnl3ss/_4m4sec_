@@ -3,7 +3,7 @@
 ### About me :  
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
   
-📌 I live in France, near Paris.  
+📌 Currently working on <a href="https://github.com/Neptune-Dev/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
 🌌 SAO, The 100 & PJO-HOO fan.  
   
 ### Languages & technologies that I practice :  
