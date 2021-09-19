@@ -11,8 +11,9 @@
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/>
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/>
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/javascript/javascript-original.svg" alt="c#" width="50" height="50"/>
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/symfony/symfony-original.svg" alt="mysql" width="50" height="50"/>  
 </p>
 
 ### My stats :
