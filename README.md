@@ -3,7 +3,7 @@
 ### About me :  
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
   
-📌 Currently working on <a href="https://github.com/Neptune-Dev/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
+📌 Currently studying at school and working on <a href="https://github.com/Neptune-Dev/Olympus-Rewrite">Olympus</a> & learning cybersecurity.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
