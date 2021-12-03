@@ -1,4 +1,4 @@
-### "Never trust users' answer 💫 "  
+### "just an informatic enthusiast who's following his dreams..."  
 
 ### About me :  
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
