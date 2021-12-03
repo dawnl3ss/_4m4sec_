@@ -1,4 +1,4 @@
-### "just an informatic enthusiast who's following his dreams..."  
+### "Just an informatic enthusiast who's following his dreams... 🌨🌧☁"  
 
 ### About me :  
 💨 My name is Neptune and i'm backend developer and cybersecurity student.  
