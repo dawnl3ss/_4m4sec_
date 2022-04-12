@@ -13,7 +13,7 @@
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/>  
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>  
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/>  
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/ruby/ruby-original.svg" alt="mysql" width="50" height="50"/> 
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/symfony/symfony-original.svg" alt="mysql" width="50" height="50"/>  
 </p>
 
