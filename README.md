@@ -3,7 +3,7 @@
 ### About me :  
 💨 15yo french developer and CyberSec enthusiast.  
   
-📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Iris">Iris</a> & learning cybersecurity.  
+📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Iris">Iris</a> & learning cyber-security.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
