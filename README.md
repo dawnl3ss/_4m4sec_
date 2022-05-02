@@ -1,7 +1,7 @@
 ### "Just a computer science enthusiast who's following his dreams... ☁"  
 
 ### About me :  
-💨 I'm Neptune, a 15yo french developer and computer-science enthusiast.  
+💨 15yo french developer and CyberSec enthusiast.  
   
 📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Iris">Iris</a> & learning cybersecurity.  
   
