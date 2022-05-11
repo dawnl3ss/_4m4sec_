@@ -1,4 +1,4 @@
-### "Just a computer science enthusiast who's following his dreams... ☁"  
+### "Just a computer science enthusiast following his dreams... ☁"  
 
 ### About me :  
 💨 15yo french developer and CyberSec enthusiast.  
