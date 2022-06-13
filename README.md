@@ -3,7 +3,7 @@
 ### About me :  
 💨 15yo french developer and CyberSec enthusiast.  
   
-📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Athena">Athena</a> & learning cyber-security/red-teaming.  
+📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Athena">Athena</a> & learning cyber-security/pentesting.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
