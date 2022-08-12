@@ -119,6 +119,7 @@
 <details>
     <summary> 📜 Open : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
+        <br>
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4m4sec&layout=compact&theme=tokyonight">
         <br>        
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neptune-it&color=FAC151">
