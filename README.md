@@ -32,7 +32,7 @@
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
-  
+    <br>
     <details open="false">
         <summary> 💻 Technologies : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
