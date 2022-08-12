@@ -78,8 +78,8 @@
 <details>
     <summary> 📜 Open : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://4m4sec.me/"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/chrome.png" width="50px" height="50px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.gg/hardware"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/discord.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.gg/hardware"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/discord.png" width="50px" height="56px"></a>
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://instagram/4m4sec"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/instagram.png" width="50px" height="50px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/neptune_dev"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/twitter.png" width="50px" height="50px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:4m4sec@gmail.com"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/email.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/neptune_dev"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/twitter.png" width="50px" height="41px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:4m4sec@gmail.com"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/email.png" width="50px" height="38px"></a>
 </details>
