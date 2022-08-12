@@ -3,9 +3,10 @@
 ### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
 ### 📌 <ins>About me</ins> :
-<p> &nbsp;├── 💨 French full-stack developer and cybersecurity lover. </p>  
-  
-<p> &nbsp;└── 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
+&nbsp;├── 💨 French full-stack developer and cybersecurity lover.  
+&nbsp;├── 🗡 SAO, The 100 & PJO fan.  
+&nbsp;├── 🌌 Space & Greece lover.  
+&nbsp;└── 📖 Currently studying at school and learning cyber-security/pentesting.  
 
 ### 📌 <ins>My Skills</ins> :
 <div>
