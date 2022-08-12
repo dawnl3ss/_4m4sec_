@@ -9,7 +9,7 @@
 
 ### 📌 <u>My Skills</u> :
 <div>
-    <details>
+    <details open="false">
         <summary> 💻 Programming languages </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
