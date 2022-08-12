@@ -11,7 +11,7 @@
 ### 📌 <ins>My Skills</ins> :
 <div>
     <details open="false">
-        <summary> 💻 Programming languages </summary>
+        <summary> 💻 Programming languages : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,6 +32,34 @@
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
+    <details open="false">
+        <summary> 💻 Technologies : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+            <img src="	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Frontend :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+            <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+            <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Database :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+            <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; └─────────
+    </details>
 </div>
 
 ### 📌 <ins>My stats</ins> :
@@ -42,6 +70,3 @@
 ### 📌 <ins>Contact me</ins> :
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
-
-🗡 SAO, The 100 & PJO fan.  
-🌌 Space & Greece lover.
