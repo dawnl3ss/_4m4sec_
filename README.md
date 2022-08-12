@@ -14,7 +14,7 @@
         <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend : </p>
         <div center='left'>
             &nbsp;&nbsp;&nbsp;&nbsp;
-            [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+            ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
             [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
         </div>
         <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Frontend : </p>
