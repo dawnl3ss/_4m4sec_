@@ -1,4 +1,4 @@
-<img src="https://github.com/4m4Sec/4m4Se/blob/main/profile-banner.gif">
+<img src="https://github.com/4m4Sec/4m4Se/blob/main/banner-profile.gif">
 
 ### Just a computer science enthusiast following his dreams... ☁
 
