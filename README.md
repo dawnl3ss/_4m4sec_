@@ -11,8 +11,8 @@
 <div>
     <details>
         <summary> 💻 Programming languages </summary>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend : </p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Frontend : </p>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :  
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Frontend :  
     </details>
 </div>
 
