@@ -62,19 +62,49 @@
     </details>
 </div>
 
-### 📌 <ins>My stats</ins> :
-<details>
-    <summary> 📜 Open : </summary>
-        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
-        &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4m4sec&layout=compact&theme=tokyonight">
-        <br>        
-        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neptune-it&color=FAC151">
-</details>
-
+### 📌 <ins>My projects</ins> :
+<div>
+    <details>
+        <summary> 💻 Completed : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├─ PHP :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💾 <a href="https://github.com/4m4Sec/Klephtes">Klephtes</a> <br>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├─ Python :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🌑 <a href="https://github.com/4m4Sec/Selene">Séléné</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 💉 <a href="https://github.com/4m4Sec/Eros">Eros</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🏆 <a href="https://github.com/4m4Sec/Sigma">Sigma</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💼 <a href="https://github.com/4m4Sec/Nebula-Intelligency">Nebula</a> <br>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; └─────────
+    </details>
+    <details>
+        <summary> 💻 InDev : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── PHP :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── Python :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; ├── C/C++ :
+        <div center='left'>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp; └─────────
+    </details>
+</div>
+&nbsp;├── 🖥 Hardware-France Website (PHP / InDev)  
+&nbsp;├── 💪 Lets-Freerun (PHP-JS / InDev)  
+&nbsp;├── 🔐 ARS-SHELL-CRYPT (C++ / Completed)  
+&nbsp;├── ⚖ Athena (C++ / InDev)  
+&nbsp;├── ✨ Olympus (PHP / Standby)  
+&nbsp;├── 💾 Klephtes (PHP / Completed)  
+&nbsp;└── 
 
 ### 📌 <ins>Contact me</ins> :
-[![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
-[![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
 <details>
     <summary> 📜 Open : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://4m4sec.me/"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/chrome.png" width="50px" height="50px"></a>
@@ -82,4 +112,13 @@
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://instagram/4m4sec"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/instagram.png" width="50px" height="50px"></a>
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/neptune_dev"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/twitter.png" width="50px" height="41px"></a>
         &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:4m4sec@gmail.com"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/email.png" width="50px" height="38px"></a>
+</details>
+
+### 📌 <ins>My stats</ins> :
+<details>
+    <summary> 📜 Open : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
+        &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4m4sec&layout=compact&theme=tokyonight">
+        <br>        
+        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neptune-it&color=FAC151">
 </details>
