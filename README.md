@@ -63,9 +63,10 @@
 </div>
 
 ### 📌 <ins>My stats</ins> :
-<details open="false">
+<details>
     <summary> 📜 Open : </summary>
-        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4Sec&show_icons=true&theme=dark&count_private=true&hide=prs,issues">
+        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
+        &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4m4sec&layout=compact&theme=tokyonight">
         <br>        
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neptune-it&color=FAC151">
 </details>
@@ -74,3 +75,11 @@
 ### 📌 <ins>Contact me</ins> :
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
+<details>
+    <summary> 📜 Open : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://4m4sec.me/"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/chrome.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.gg/hardware"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/discord.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://instagram/4m4sec"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/instagram.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/neptune_dev"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/twitter.png" width="50px" height="50px"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:4m4sec@gmail.com"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/email.png" width="50px" height="50px"></a>
+</details>
