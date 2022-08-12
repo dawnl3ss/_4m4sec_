@@ -3,7 +3,7 @@
 ### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
 ### 📌 About me :
-<p> 💨 French full-stack developer and cybersecurity lover. </p>  
+<p>     💨 French full-stack developer and cybersecurity lover. </p>  
   
 <p> 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
 
@@ -11,7 +11,7 @@
 <div>
     <details>
         <summary> 💻 Programming languages </summary>
-        <p style="margin-left: 150px"> Backend : </p>  
+        <p><strong> Backend :</strong></p>  
     </details>
 </div>
 
