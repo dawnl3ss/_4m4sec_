@@ -1,6 +1,6 @@
 <img src="https://github.com/4m4Sec/4m4Se/blob/main/readme-banner.gif">
 
-### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
+### <p align='center'><em> Just a computer science enthusiast following his dreams... ☁ </em></p>
 
 ### 📌 <ins>About me</ins> :
 &nbsp;├── 💨 French full-stack developer and cybersecurity lover.  
@@ -32,6 +32,7 @@
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
+  
     <details open="false">
         <summary> 💻 Technologies : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
