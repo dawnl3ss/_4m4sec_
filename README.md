@@ -10,7 +10,7 @@
 
 ### 📌 <ins>My Skills</ins> :
 <div>
-    <details open="false">
+    <details>
         <summary> 💻 Programming languages : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
@@ -32,8 +32,7 @@
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
-    <br>
-    <details open="false">
+    <details>
         <summary> 💻 Technologies : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
@@ -64,8 +63,12 @@
 </div>
 
 ### 📌 <ins>My stats</ins> :
-[![Active](https://github-readme-stats.vercel.app/api?username=4m4Sec&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-IT)  
-[![Active](https://komarev.com/ghpvc/?username=neptune-it&color=FAC151)](https://www.github.com/4m4Sec)
+<details open="false">
+    <summary> 📜 Open : </summary>
+        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4Sec&show_icons=true&theme=dark&count_private=true&hide=prs,issues">
+        <br>        
+        &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=neptune-it&color=FAC151">
+</details>
 
 
 ### 📌 <ins>Contact me</ins> :
