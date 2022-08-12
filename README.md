@@ -3,9 +3,9 @@
 ### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
 ### 📌 About me :
-<p>     💨 French full-stack developer and cybersecurity lover. </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💨 French full-stack developer and cybersecurity lover. </p>  
   
-<p> 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
 
 ### 📌 My Skills :
 <div>
