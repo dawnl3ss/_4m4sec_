@@ -1,23 +1,19 @@
 <img src="https://github.com/4m4Sec/4m4Se/blob/main/readme-banner.gif">
 
-### Just a computer science enthusiast following his dreams... ☁
+### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
 ### About me :
-💨 17yo french developer and CyberSec enthusiast.
+💨 French full-stack developer and cybersecurity lover.  
+  
+📌 Currently studying at school and learning cyber-security/pentesting.
 
-📌 Currently studying at school and working on <a href="https://github.com/Neptune-IT/Lets-Freerun">Lets-Freerun</a>, <a href="https://github.com/Neptune-IT/Athena">Athena</a> & learning cyber-security/pentesting.
-
-### Languages & technologies that I practice :
-<p align="left">
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/>  
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-    <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/symfony/symfony-original.svg" alt="mysql" width="50" height="50"/>  
-</p>
+### My Skills :
+<div>
+    <details>
+        <summary> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-code-slash" viewBox="0 0 16 16"><path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z"/></svg> Programming languages </summary>
+        <p style="margin-left: 42px"> Backend </p>
+    </details>
+</div>
 
 ### My stats :
 [![Active](https://github-readme-stats.vercel.app/api?username=4m4Sec&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-IT)  
