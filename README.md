@@ -11,7 +11,7 @@
 <div>
     <details>
         <summary> 💻 Programming languages </summary>
-        <p style="margin-right: 150px"> Backend : </p>  
+        <p style="margin-left: 150px"> Backend : </p>  
     </details>
 </div>
 
