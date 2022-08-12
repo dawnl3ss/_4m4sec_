@@ -2,7 +2,7 @@
 
 ### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
-### 📌 <u>About me</u> :
+### 📌 <ins>About me</ins> :
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 💨 French full-stack developer and cybersecurity lover. </p>  
   
 <p> &nbsp;&nbsp;&nbsp;&nbsp; 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
