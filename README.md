@@ -68,41 +68,42 @@
         <summary> 💻 Completed : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├─ PHP :
         <div>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💾 <a href="https://github.com/4m4Sec/Klephtes">Klephtes</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💾 <a href="https://github.com/4m4Sec/Klephtes">Klephtes</a> <br>
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; ├─ Python :
         <div>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🌑 <a href="https://github.com/4m4Sec/Selene">Séléné</a> <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 💉 <a href="https://github.com/4m4Sec/Eros">Eros</a> <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🏆 <a href="https://github.com/4m4Sec/Sigma">Sigma</a> <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💼 <a href="https://github.com/4m4Sec/Nebula-Intelligency">Nebula</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🌑 <a href="https://github.com/4m4Sec/Selene">Séléné</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 💉 <a href="https://github.com/4m4Sec/Eros">Eros</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🏆 <a href="https://github.com/4m4Sec/Sigma">Sigma</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 🧬 <a href="https://github.com/4m4Sec/Nebula-Intelligency">Nebula</a> <br>
         </div>
-        &nbsp;&nbsp;&nbsp;&nbsp; └─────────
+        &nbsp;&nbsp;&nbsp;&nbsp; └─ C/C++ :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🔐 <a href="https://github.com/4m4Sec/ARS-SHELL-CRYPT">ARS-SHELL-CRYPT</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🔗 <a href="https://github.com/4m4Sec/Simple-MySQL-API">Simple-MySQL-API</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 🔪 <a href="https://github.com/4m4Sec/Nhyx">Nyx</a> <br>
+        </div>
     </details>
     <details>
         <summary> 💻 InDev : </summary>
-        &nbsp;&nbsp;&nbsp;&nbsp; ├── PHP :
-        <div center='left'>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp; ├─ PHP :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 🖥 <a href="https://github.com/Hardware-France">Hardware-France Website</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ 💪 <a href="https://github.com/4m4Sec/Lets-Freerun">Lets-Freerun</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ ✨ <a href="https://github.com/4m4Sec/Olympus">Olympus</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 🖇 <a href="https://github.com/4m4Sec/Zephyr">Zephyr</a> <br>
         </div>
-        &nbsp;&nbsp;&nbsp;&nbsp; ├── Python :
-        <div center='left'>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp; ├─ Python :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 💼 <a href="https://github.com/4m4Sec/Iris">Iris</a> <br>
         </div>
-        &nbsp;&nbsp;&nbsp;&nbsp; ├── C/C++ :
-        <div center='left'>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp; └─ C/C++ :
+        <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├─ ☄ <a href="https://github.com/4m4Sec/Athena">Athena</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └─ 🔥 <a href="https://github.com/4m4Sec/Ares">Ares</a> <br>
         </div>
-        &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
 </div>
-&nbsp;├── 🖥 Hardware-France Website (PHP / InDev)  
-&nbsp;├── 💪 Lets-Freerun (PHP-JS / InDev)  
-&nbsp;├── 🔐 ARS-SHELL-CRYPT (C++ / Completed)  
-&nbsp;├── ⚖ Athena (C++ / InDev)  
-&nbsp;├── ✨ Olympus (PHP / Standby)  
-&nbsp;├── 💾 Klephtes (PHP / Completed)  
-&nbsp;└── 
 
 ### 📌 <ins>Contact me</ins> :
 <details>
