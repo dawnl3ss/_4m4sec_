@@ -1,3 +1,5 @@
+<img src="https://github.com/4m4Sec/4m4Se/blob/main/banner.gif">
+
 ### Just a computer science enthusiast following his dreams... ☁
 
 ### About me :
