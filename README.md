@@ -2,25 +2,27 @@
 
 ### <p align='center'> Just a computer science enthusiast following his dreams... ☁ </p>
 
-### 📌 About me :
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💨 French full-stack developer and cybersecurity lover. </p>  
+### 📌 <u>About me</u> :
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 💨 French full-stack developer and cybersecurity lover. </p>  
   
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
+<p> &nbsp;&nbsp;&nbsp;&nbsp; 📖 Currently studying at school and learning cyber-security/pentesting. </p>  
 
-### 📌 My Skills :
+### 📌 <u>My Skills</u> :
 <div>
     <details>
         <summary> 💻 Programming languages </summary>
-        <p><strong> Backend :</strong></p>  
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend : </p>
+            d
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; ├── Frontend : </p>
     </details>
 </div>
 
-### 📌 My stats :
+### 📌 <u>My stats</u> :
 [![Active](https://github-readme-stats.vercel.app/api?username=4m4Sec&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Neptune-IT)  
 [![Active](https://komarev.com/ghpvc/?username=neptune-it&color=FAC151)](https://www.github.com/4m4Sec)
 
 
-### 📌 Contact me :
+### 📌 <u>Contact me</u> :
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_neptune_dev_)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/neptune_dev)
 
