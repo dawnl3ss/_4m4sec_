@@ -10,7 +10,7 @@
 
 ### 📌 <ins>My Skills</ins> :
 <div>
-    <details>
+    <details open>
         <summary> 💻 Programming languages : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
@@ -32,7 +32,7 @@
         </div>
         &nbsp;&nbsp;&nbsp;&nbsp; └─────────
     </details>
-    <details>
+    <details open>
         <summary> 💻 Technologies : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
