@@ -11,7 +11,7 @@
 ### 📌 <ins>My Skills</ins> :
 <div>
     <details open>
-        <summary> 💻 Programming languages : </summary>
+        <summary> 💻 Languages : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; ├── Backend :
         <div center='left'>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
