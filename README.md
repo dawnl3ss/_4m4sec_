@@ -2,13 +2,13 @@
 
 # <p align='center'><em> Just a computer science enthusiast following his dreams... ☁ </em></p>
 
-### 📌 <ins>About me</ins> :
+# 📌 <ins>About me</ins> :
 &nbsp;├─ 💨 French full-stack developer and cybersecurity lover.  
 &nbsp;├─ 🗡 SAO, The 100 & PJO fan.  
 &nbsp;├─ 🌌 Space & Greece lover.  
 &nbsp;└─ 📖 Currently studying at school and learning cyber-security/pentesting.  
 
-### 📌 <ins>My Skills</ins> :
+# 📌 <ins>My Skills</ins> :
 <div>
     <details open>
         <summary> 💻 Languages : </summary>
@@ -62,7 +62,7 @@
     </details>
 </div>
 
-### 📌 <ins>My projects</ins> :
+# 📌 <ins>My projects</ins> :
 <div>
     <details>
         <summary> 💻 Completed : </summary>
@@ -107,17 +107,7 @@
     </details>
 </div>
 
-### 📌 <ins>Contact me</ins> :
-<details>
-    <summary> 📜 Open : </summary>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://4m4sec.me/"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/chrome.png" width="50px" height="50px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.gg/hardware"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/discord.png" width="50px" height="56px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/4m4sec"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/instagram.png" width="50px" height="50px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/neptune_dev"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/twitter.png" width="50px" height="41px"></a>
-        &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:4m4sec@gmail.com"><img src="https://github.com/4m4Sec/4m4Sec/blob/main/email.png" width="50px" height="38px"></a>
-</details>
-
-### 📌 <ins>My stats</ins> :
+# 📌 <ins>My stats</ins> :
 <details>
     <summary> 📜 Open : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
