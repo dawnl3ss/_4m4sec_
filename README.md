@@ -2,7 +2,8 @@
 
 # <p align='center'><em> Just a computer science enthusiast following his dreams... ☁ </em></p>
 
-# 📌 <ins>About me</ins> :
+#
+### 📌 <ins>About me</ins> :
 &nbsp;├─ 💨 French full-stack developer and cybersecurity lover.  
 &nbsp;├─ 🗡 SAO, The 100 & PJO fan.  
 &nbsp;├─ 🌌 Space & Greece lover.  
