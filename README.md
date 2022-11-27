@@ -8,6 +8,7 @@
 &nbsp;├─ 🌌 Space & Greece lover.  
 &nbsp;└─ 📖 Currently studying at school and learning cyber-security/pentesting.  
 
+#
 ### 📌 <ins>My Skills</ins> :
 <div>
     <details open>
