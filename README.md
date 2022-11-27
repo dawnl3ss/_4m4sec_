@@ -2,14 +2,13 @@
 
 # <p align='center'><em> Just a computer science enthusiast following his dreams... ☁ </em></p>
 
-#
 ### 📌 <ins>About me</ins> :
 &nbsp;├─ 💨 French full-stack developer and cybersecurity lover.  
 &nbsp;├─ 🗡 SAO, The 100 & PJO fan.  
 &nbsp;├─ 🌌 Space & Greece lover.  
 &nbsp;└─ 📖 Currently studying at school and learning cyber-security/pentesting.  
 
-# 📌 <ins>My Skills</ins> :
+### 📌 <ins>My Skills</ins> :
 <div>
     <details open>
         <summary> 💻 Languages : </summary>
@@ -63,7 +62,8 @@
     </details>
 </div>
 
-# 📌 <ins>My projects</ins> :
+#
+### 📌 <ins>My projects</ins> :
 <div>
     <details>
         <summary> 💻 Completed : </summary>
@@ -108,7 +108,8 @@
     </details>
 </div>
 
-# 📌 <ins>My stats</ins> :
+#
+### 📌 <ins>My stats</ins> :
 <details>
     <summary> 📜 Open : </summary>
         &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=4m4sec&show_icons=true&theme=tokyonight">
